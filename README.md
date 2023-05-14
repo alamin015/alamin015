@@ -1,6 +1,7 @@
-### Hi there 👋, I'm  Alamin
-#### Web Developer
 ![Web Developer](https://i.ibb.co/Z158yJ6/IMG-20230410-170827.jpg)
+## Hi there 👋, I'm  Alamin
+#### Web Developer
+-Love to code
 
 I'm a front end developer with a passion for building beautiful and user-friendly web applications. I have over 5 years of experience in the industry, and I'm proficient in a variety of technologies, including HTML, CSS, JavaScript, React, Angular, and Vue. I'm also an expert in responsive design and accessibility.
 
