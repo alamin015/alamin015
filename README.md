@@ -3,6 +3,7 @@
 ### Web Developer
 ✔ Love to code <br />
 ❤ Love to Learn Something New
+![Profile views](https://gpvc.arturio.dev/alamin015) 
 
 I'm a front end developer with a passion for building beautiful and user-friendly web applications. I have over 5 years of experience in the industry, and I'm proficient in a variety of technologies, including HTML, CSS, JavaScript, React, Angular, and Vue. I'm also an expert in responsive design and accessibility.
 
@@ -28,4 +29,4 @@ Skills: NODE / EXPRESS / FIREBASE / REACT / JS / HTML / CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=alamin015)  
 
-![Profile views](https://gpvc.arturio.dev/alamin015)  
+ 
