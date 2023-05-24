@@ -18,8 +18,11 @@ Skills: NODE / EXPRESS / FIREBASE / REACT / JS / HTML / CSS
 - 🌱 I’m currently learning Javascript 
 - 💬 Ask me about Web Development 
 
-## My goal
+
+### ❤My goal ❤
 - To be a mern stack developer
+<br />
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/alamin015)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/AminBD.MiahAminBD.Miah)  
 
