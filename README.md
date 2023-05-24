@@ -19,7 +19,7 @@ Skills: NODE / EXPRESS / FIREBASE / REACT / JS / HTML / CSS
 - 💬 Ask me about Web Development 
 
 
-### ❤My goal ❤
+### ❤My goal❤
 - To be a mern stack developer
 <br />
 
