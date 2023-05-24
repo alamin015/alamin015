@@ -5,8 +5,6 @@
 ✔ Love to code <br />
 ❤ Love to Learn Something New
 
-## My goal
-- To be a mern stack developer
 
 
 I'm a front end developer with a passion for building beautiful and user-friendly web applications. I have over 5 years of experience in the industry, and I'm proficient in a variety of technologies, including HTML, CSS, JavaScript, React, Angular, and Vue. I'm also an expert in responsive design and accessibility.
@@ -20,6 +18,8 @@ Skills: NODE / EXPRESS / FIREBASE / REACT / JS / HTML / CSS
 - 🌱 I’m currently learning Javascript 
 - 💬 Ask me about Web Development 
 
+## My goal
+- To be a mern stack developer
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/alamin015)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/AminBD.MiahAminBD.Miah)  
 
