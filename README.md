@@ -1,5 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/alamin015) <br />
 ![Web Developer](https://i.ibb.co/Z158yJ6/IMG-20230410-170827.jpg)
+<img src="https://i.ibb.co/Z158yJ6/IMG-20230410-170827.jpg" alt="img" />
 ## Hi, I'm  Alamin
 ### Web Developer
 ✔ Love to code <br />
