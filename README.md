@@ -18,7 +18,7 @@ If you're looking for a front end developer who is passionate, skilled, and expe
 
 Skills: NODE / EXPRESS / FIREBASE / REACT / JS / HTML / CSS
 
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning Javascript and exploring react, next js
 - 💬 Ask me about Web Development 
 
 
