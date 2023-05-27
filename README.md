@@ -6,7 +6,8 @@
 ## Hi, I'm  AL AMIN
 ### Web Developer
 ✔ Love to code <br />
-❤ Love to Learn Something New
+❤ Love to Learn Something New <br />
+❤ React Lover <br />
 
 
 
