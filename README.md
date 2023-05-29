@@ -11,7 +11,7 @@
 
 
 
-I'm a front end developer with a passion for building beautiful and user-friendly web applications. I have over 5 years of experience in the industry, and I'm proficient in a variety of technologies, including HTML, CSS, JavaScript, React, Angular, and Vue. I'm also an expert in responsive design and accessibility.
+I'm a Front-end developer with a passion for building beautiful and user-friendly web applications. I have over 5 years of experience in the industry, and I'm proficient in a variety of technologies, including HTML, CSS, JavaScript, React, Angular, and Vue. I'm also an expert in responsive design and accessibility.
 
 I'm always looking for new challenges, and I'm excited to use my skills to help your team build the next great web application. I'm also a strong contributor to open source projects, and I'm always willing to help others learn and grow.
 
