@@ -7,7 +7,7 @@
 ## Web Developer
 ✔ Love to code <br />
 ❤ Love to Learn Something New <br />
-❤ React Lover <br />
+<!-- ❤ React Lover <br /> -->
 
 
 
