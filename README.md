@@ -1,6 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/alamin015) <br />
 <!-- ![Web Developer](https://i.ibb.co/Z158yJ6/IMG-20230410-170827.jpg) -->
-<img src="https://i.ibb.co/5FRqGxc/alamin-2.jpg" alt="img"  style="width:100%;" />
+<!-- <img src="https://i.ibb.co/5FRqGxc/alamin-2.jpg" alt="img"  style="width:100%;" /> -->
 
 
 ## Hi, I'm  AL AMIN
